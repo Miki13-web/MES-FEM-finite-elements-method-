@@ -41,5 +41,5 @@ The second phase of the project involves an advanced thermal process simulation:
 ## Tech Stack
 <ul>
   <li><strong>Language:</strong> C++ (OOP)</li>
-  <li><strong>Auxiliary Tools:</strong> Python (Mesh generation), Gmsh (Visualization)</li>
+  <li><strong>Auxiliary Tools:</strong> Python (Mesh generation), Gmsh (Visualization), Abaqus</li>
 </ul>
