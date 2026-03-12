@@ -29,7 +29,9 @@ The second phase of the project involves an advanced thermal process simulation:
 
   <li><strong>Visualization:</strong> Results exported to .msh format for post-processing and temperature mapping in Gmsh.</li>
   <img width="512" height="523" alt="Zrzut ekranu 2026-03-12 110457" src="https://github.com/user-attachments/assets/b8aba44b-47eb-4c8a-9e40-ff4d8a332759" />
-  After flipping
+ 
+  # After flipping
+  
   <img width="518" height="533" alt="Zrzut ekranu 2026-03-12 110523" src="https://github.com/user-attachments/assets/66e10fbd-c26e-4279-9fe6-1a9df3b7c2ee" />
   <img width="520" height="538" alt="Zrzut ekranu 2026-03-12 110537" src="https://github.com/user-attachments/assets/e34e226a-f42b-4348-837b-254ef721d83b" />
   <img width="564" height="584" alt="Zrzut ekranu 2026-03-12 110558" src="https://github.com/user-attachments/assets/b34e528b-ddb9-46ea-881f-23c172825200" />
